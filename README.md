@@ -1,6 +1,6 @@
 ### Retronic USB Intellivision Firmware Modification
 
-This firmware for the Retronic USB adapter for Intellivision controllers is a modification of [USBJoystickAdapter_v3.3](https://github.com/retronicdesign/USBJoystickAdapter_v3.3). It addresses a few issues with the official firmware. The eight buttons specific to Jzintv raw data bits can interfere with controller setup in some emulators and have been removed. The 16th button activated by keypad 1 & 9 combo can interfere with the internal Intellivision pause feature and has been removed. The following keypad combinations are now supported for external emulator functions, e.g. reset, exit, swap controller.
+This firmware for the Retronic USB adapter for Intellivision controllers is a modification of [USBJoystickAdapter_v3.3](https://github.com/retronicdesign/USBJoystickAdapter_v3.3). It addresses a few issues with the official firmware. The eight buttons specific to [Jzintv](http://spatula-city.org/~im14u2c/intv) raw data bits can interfere with controller setup in some emulators and have been removed. The 16th button activated by keypad 1 & 9 combo can interfere with the internal Intellivision pause feature and has been removed. The following keypad combinations are now supported for external emulator functions, e.g. reset, exit, swap controller.
 
 - keypad 5 and keypad Clear
 - keypad 5 and keypad Enter
