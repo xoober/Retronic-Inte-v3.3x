@@ -8,7 +8,7 @@ This firmware for the Retronic USB adapter for Intellivision controllers is a mo
 - keypad 1 and keypad 8
 - keypad 2 and keypad 9
 
-An input mapping file for the Jzintv emulator (aka keyboard hack file) is available for download in this repository. [MisterFPGA](https://mister-devel.github.io/MkDocs_MiSTer) input mapping files, specific to this firmware modification, can be found [here](https://misterfpga.org/viewtopic.php?p=97890#p97890).
+An input mapping file for the Jzintv emulator (aka [keyboard hack file](http://spatula-city.org/~im14u2c/intv/jzintv/doc/jzintv/kbdhackfile.txt)) is available for download in this repository. [MisterFPGA](https://mister-devel.github.io/MkDocs_MiSTer) input mapping files, specific to this firmware modification, can be found [here](https://misterfpga.org/viewtopic.php?p=97890#p97890). Input mapping files are the same for standard and Flashback controllers.
 
 Compatible with Retronic Design USB v3.x adapters. The programs to install Retronic USB firmware can be found at www.retronicdesign.com or at their Github linked above. To manually invoke the RetronicUSB update mode, hold and keep holding the upper side button on an Intellivision controller while connecting to the computer USB. With an Intellivision Flashback controller, hold keypad '6'.
 
