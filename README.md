@@ -10,8 +10,8 @@ This firmware for the Retronic USB adapter for Intellivision controllers is a mo
 
 Compatible with Retronic Design USB v3.x adapters. The programs to install Retronic USB firmware can be found at www.retronicdesign.com or at their Github linked above. To manually invoke the RetronicUSB update mode, hold and keep holding the upper side button on an Intellivision controller while connecting to the computer USB. With an Intellivision Flashback controller, hold keypad '6'.
 
-Compiled with Microchip Studio v7.0. Only modified source code files are provided here. The complete source code can be found at [Intellivision_Controller_v3.3](https://github.com/retronicdesign/USBJoystickAdapter_v3.3/tree/main/Intellivision_Controller_v3.3) and at [Intellivision_Flashback_Controller_ATGames_v3.3](https://github.com/retronicdesign/USBJoystickAdapter_v3.3/tree/main/Intellivision_Flashback_Controller_ATGames_v3.3) for Intellivision Flashback controllers. This code is provided under a GPLv3 licence and does not offer any warranty whatsoever.
+Compiled with Microchip Studio v7.0. Only modified source code files are provided here. The rest of the source code can be found at [Intellivision_Controller_v3.3](https://github.com/retronicdesign/USBJoystickAdapter_v3.3/tree/main/Intellivision_Controller_v3.3) and at [Intellivision_Flashback_Controller_ATGames_v3.3](https://github.com/retronicdesign/USBJoystickAdapter_v3.3/tree/main/Intellivision_Flashback_Controller_ATGames_v3.3) for Intellivision Flashback controllers. This code is provided under a GPLv3 licence and does not offer any warranty whatsoever.
 
-https://github.com/xebec1/Retronic-Inte-v3.3x
+https://github.com/xoober/Retronic-Inte-v3.3x
 
 
